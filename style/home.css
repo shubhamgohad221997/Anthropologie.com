@@ -1,0 +1,142 @@
+#seeimg{
+    width: 94%;
+    height: auto;
+    /* border: 1px solid black; */
+    margin: auto;
+    display: flex;
+}
+
+#sei1{
+    width: 750px;
+    margin-left: 10px;
+}
+
+#sei2{
+    margin: 25px;
+    width: 350px;
+  margin-left: 20px;
+}
+#sei3{
+    margin: 20px;
+    width: 750px;
+}
+#see1{
+    gap: 20px;
+}
+#sei4{
+    width: 450px;
+    height: 380px;
+    margin-left: 10px;
+   margin-top: 24px;
+}
+#sei21{
+    display: flex;
+}
+#seeimg1{
+    margin: auto;
+    width: 94%;
+    height: auto;
+    display: flex;
+
+}
+
+#sei5{
+    width: 600px;
+    margin-left: 22px;
+}
+#h2t{
+    margin-left: 60px;
+    margin-top: 70px;
+    margin-bottom: -10px;
+}
+
+body {
+    /* background: #eee; */
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
+
+  .swiper {
+    width: 95%;
+    height: 400px;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    /* background: #fff; */
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    /* display: flex; */
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    display: grid;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 70%;
+    object-fit: cover;
+  }
+
+  #products{
+    width: 100%;
+ height: 380px;
+    margin-top: -27px;
+  }
+  .p{
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    color: gray;
+  }
+  #h3t{
+   margin-left: 600px;
+   margin-top: 60px;
+  }
+
+  #gre{
+    display: flex;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    gap: 20px;
+    padding: 5px;
+
+  }
+
+  #g1img{
+    width: 400px;
+  }
+  #abo{
+    width: 91%;
+    height: auto;
+    margin: auto;
+    margin-top: 30px;
+  }
+  p{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: rgb(65, 64, 64);
+  }
+  a{
+    color: 
+    #167a92;
+  }
+  #psi{
+    color: 
+    #167a92;
+  }
+  
