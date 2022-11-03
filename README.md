@@ -1,16 +1,16 @@
-# Urban_Company
+# Anthropologie
 
-# Construct Week of Unit-4 | Project-Urban_Company
+# Construct Week of Unit-4 | Project-Anthropologie
 
 
-Hello Everyone, I am building a clone of Urban_Company
-. Currently, I am pursuing the Full Stack Web Development course at Masai School. I am in last week of unit 4 which is known by construct week . In this week I am build the clone of Urban_Company
+Hello Everyone, I am building a clone of Anthropologie
+. Currently, I am pursuing the Full Stack Web Development course at Masai School. I am in last week of unit 4 which is known by construct week . In this week I am build the clone of Anthropologie
  which is given by Masai School .
 
-# About Project | Urban_Company
+# About Project | Anthropologie
 
 
-Urban Company is your one-stop destination for expert local services. Get dozens of trusted professionals near you to take care of all your home and beauty product provider.
+Anthropologie is a unique, full-lifestyle shopping destination, with a mostly exclusive assortment of clothing, shoes, accessories, beauty, furniture, home
 # Tech Stacks Used for Cloning Website By Me:
 HTML :2.1%
 
@@ -22,20 +22,23 @@ Above stack percentage is calculated by GitHub it may be different when we updat
 
 # Some Glimpse and Screenshots of our Website:
 
-# HomePage of our Website :![Screenshot 2022-09-22 200912](https://user-images.githubusercontent.com/101570475/199772031-fffc3bd0-a023-474d-b83c-84c8e9b27bae.png)
+# HomePage of our Website :![an1](https://user-images.githubusercontent.com/101570475/199777102-0b664287-2a03-4e12-803c-7eb8a881db94.png)
 
 
-# Blog_Page:![Screenshot 2022-09-22 201123](https://user-images.githubusercontent.com/101570475/199772866-7b03af4f-a700-410e-bc56-8bb5c9463fb5.png)
+
+# SignUP:![an3](https://user-images.githubusercontent.com/101570475/199777431-395d3056-4d93-4837-ac94-5ae6459b1f71.png)
 
 
-# City_Page:![Screenshot 2022-09-22 201038](https://user-images.githubusercontent.com/101570475/199773043-0ab93db5-c6c4-4454-8bad-77087f45391b.png)
+
+# Bead_Page:![an5](https://user-images.githubusercontent.com/101570475/199777523-c0607106-9e20-4782-a24f-3a5b6c641d07.png)
 
 
-# Footer Part of our Website:![ur1](https://user-images.githubusercontent.com/101570475/199773883-de27c552-75e4-4099-bedc-489ae9041606.png)
+
+# Footer Part of our ![an2](https://user-images.githubusercontent.com/101570475/199777232-eca9b430-cd15-4178-b2bf-29a4ed38e062.png)
 
 
 
 
  # Netlify :
-https://inquisitive-cupcake-904272.netlify.app/
+https://astounding-longma-f4aeb8.netlify.app/
 
